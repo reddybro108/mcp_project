@@ -1,0 +1,12 @@
+{
+  "model_name": "bert-base-uncased",
+  "version": "20250709204808",
+  "date": "2025-07-09T20:48:08.670946",
+  "framework": "PyTorch",
+  "task": "Sentiment Classification",
+  "metrics": {
+    "accuracy": "N/A (demo)"
+  },
+  "author": "Your Name",
+  "location": "models/bert_sentiment"
+}

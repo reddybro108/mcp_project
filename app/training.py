@@ -25,7 +25,7 @@ def train_model():
 
     training_args = TrainingArguments(
         output_dir="checkpoints",
-        evaluation_strategy="no",
+        # evaluation_strategy="no",
         per_device_train_batch_size=4,
         num_train_epochs=1,
         logging_dir="logs",
